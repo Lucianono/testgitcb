@@ -1,14 +1,15 @@
 #include <iostream>
+#include "Sekyo.h"
 
 using namespace std;
 
 int main()
 {
     cout << "Hello world!" << endl;
-    cout << " Ha haaada ha\n" ;
-    cout << "Sekyurggcciti Sekyuriti\n" ;
-    cout << "Inbentoryo \n" ;
 
-    cout << "ignore\n" ;
+
+    Sekyo s;
+    s.ghello();
+
     return 0;
 }

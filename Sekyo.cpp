@@ -1,11 +1,16 @@
+#include <iostream>
 #include "Sekyo.h"
+
+using namespace std;
 
 Sekyo::Sekyo()
 {
-    cout<<"Sekyo run";
+    cout<<"Sekyo run\n";
 }
 
-Sekyo::void hello()
+void Sekyo::ghello()
 {
-    cout<<"Hello!!!!";
+    cout<<"Hello!!!!\n";
+    cout<<"Hello!!!!\n";
+    cout<<"Hello!!!!\n";
 }
