@@ -1,4 +1,5 @@
 #include <iostream>
+#include "Sekyo.h"
 
 using namespace std;
 
