@@ -13,6 +13,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
+					<Add directory="D:/PERSONAL/Bryan/codeblocks/testgitcb/" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
@@ -22,6 +23,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
+					<Add directory="D:/PERSONAL/Bryan/codeblocks/testgitcb/" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -32,6 +34,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Sekyo.cpp" />
+		<Unit filename="Sekyo.h" />
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>
