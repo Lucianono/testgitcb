@@ -6,6 +6,7 @@ class Sekyo
 {
     public:
         Sekyo();
+        hello();
 
     protected:
 

@@ -2,5 +2,10 @@
 
 Sekyo::Sekyo()
 {
-    //ctor
+    cout<<"Sekyo run";
+}
+
+Sekyo::void hello()
+{
+    cout<<"Hello!!!!";
 }
