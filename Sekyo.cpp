@@ -12,5 +12,5 @@ void Sekyo::ghello()
 {
     cout<<"Hello!!!!\n";
     cout<<"Hello!!!!\n";
-    cout<<"Hello!!!!\n";
+    cout<<"Hi!!!!\n";
 }
