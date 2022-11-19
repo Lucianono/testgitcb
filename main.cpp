@@ -5,10 +5,11 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "Hello world!" << endl<< endl;
     cout<< "CodeBlocks Testing"<<endl;
-    cout << "jelo\n\n";
 
+    cout<<"Bryan Calulo\n";
+    cout<<"Automatic Voltage Regulator\n\n";
     Sekyo s;
     s.ghello();
 
