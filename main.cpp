@@ -12,6 +12,7 @@ int main()
 
     cout<<"Bryan Calulo\n";
     cout<<"Automatic Voltage Regulator\n\n";
+    cout<<"Michaela\n";
     Sekyo s;
     s.ghello();
 
