@@ -8,7 +8,7 @@ int main()
     cout << "Hello world!" << endl;
     cout<< "CodeBlocks Testing"<<endl;
     cout << "jelo wewers \n\n";
-    cout << "\n sui";
+    cout << "\n sui one more\n";
 
     Sekyo s;
     s.ghello();
