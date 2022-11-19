@@ -5,8 +5,8 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
-    cout<< "CodeBlocks Testing"<<endl;
+    cout << "Hello world!" << endl<< endl;
+
     cout<<"Bryan Calulo\n";
     cout<<"Automatic Voltage Regulator\n\n";
 
