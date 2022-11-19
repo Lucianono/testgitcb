@@ -7,7 +7,7 @@ int main()
 {
     cout << "Hello world!" << endl;
     cout<< "CodeBlocks Testing"<<endl;
-
+    cout << "jelo\n\n";
 
     Sekyo s;
     s.ghello();
