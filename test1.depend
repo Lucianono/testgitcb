@@ -2,13 +2,13 @@
 1668255233 source:d:\personal\bryan\codeblocks\test1\main.cpp
 	<iostream>
 
-1668259416 source:d:\personal\bryan\codeblocks\testgitcb\sekyo.cpp
+1668599122 source:d:\personal\bryan\codeblocks\testgitcb\sekyo.cpp
 	<iostream>
 	"Sekyo.h"
 
-1668259323 d:\personal\bryan\codeblocks\testgitcb\sekyo.h
+1668598256 d:\personal\bryan\codeblocks\testgitcb\sekyo.h
 
-1668259331 source:d:\personal\bryan\codeblocks\testgitcb\main.cpp
+1668836119 source:d:\personal\bryan\codeblocks\testgitcb\main.cpp
 	<iostream>
 	"Sekyo.h"
 
