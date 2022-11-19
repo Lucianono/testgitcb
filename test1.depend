@@ -12,9 +12,13 @@
 	<iostream>
 	"Sekyo.h"
 
-1668597158 source:c:\users\ryzen5 b450\downloads\testgitcb\main.cpp
+1668836204 source:c:\users\ryzen5 b450\downloads\testgitcb\main.cpp
 	<iostream>
 	"Sekyo.h"
 
 1668597158 c:\users\ryzen5 b450\downloads\testgitcb\sekyo.h
+
+1668836328 source:c:\users\ryzen5 b450\downloads\testgitcb\sekyo.cpp
+	<iostream>
+	"Sekyo.h"
 
